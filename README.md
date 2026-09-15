@@ -27,7 +27,7 @@ PACEは次の4つの考え方を表します。
 
 ## 文書構成
 
-PACEは、次の階層で構成します。
+PACEの規範は、次の階層で構成します。
 
 1. 安全7原則
 2. 共通規則
@@ -50,4 +50,10 @@ PACEはGitHubで管理し、変更履歴を公開します。
 
 提案された変更は、安全性・根拠・法令・安全7原則・既存規則との整合性を確認したうえで採否を判断します。
 
-開発方法や変更の採用基準については、[DEVELOPMENT_STANDARD.md](./DEVELOPMENT_STANDARD.md)を参照してください。
+## 各種文書
+
+PACEの開発方針、変更の採用基準、バージョン管理及び正式版の成立条件については、[DEVELOPMENT_STANDARD.md](./DEVELOPMENT_STANDARD.md) を参照してください。
+
+PACEの再利用条件については、[REUSE.md](./REUSE.md) を参照してください。
+
+ライセンスについては、[LICENSE](./LICENSE) を参照してください。
